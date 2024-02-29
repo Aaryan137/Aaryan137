@@ -92,7 +92,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Aaryan137/Aaryan137/output/snake.svg" alt="Snake animation" />
 
 ###
 
