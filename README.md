@@ -67,8 +67,6 @@
   <img src="https://cdn.simpleicons.org/sass/CC6699" height="40" alt="sass logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="40" alt="vscode logo"  />
 </div>
 
 ###
